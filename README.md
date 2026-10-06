@@ -10,7 +10,7 @@ Better Cleaner scans the folders you authorize, then helps you review large file
 
 ## Download
 
-<a href="https://apps.apple.com/app/id6805775995"><img src="assets/mas-badge-en.svg" alt="Download on the Mac App Store" height="28"></a>
+<a href="https://apps.apple.com/us/app/better-cleaner/id6805775995?mt=12"><img src="assets/mas-badge-en.svg" alt="Download on the Mac App Store" height="28"></a>
 
 <b>Free to download</b> · scan and review without an account  
 macOS 14 or later  
@@ -67,7 +67,7 @@ Better Cleaner does not scan your entire disk by default, delete files automatic
 
 ## Links
 
-- [Mac App Store](https://apps.apple.com/app/id6805775995)
+- [Mac App Store](https://apps.apple.com/us/app/better-cleaner/id6805775995?mt=12)
 - [Product page](https://bettermac.net/en/products/better-cleaner/)
 - [Support](https://bettermac.net/en/support/better-cleaner/)
 - [Privacy Policy](https://bettermac.net/en/privacy/)

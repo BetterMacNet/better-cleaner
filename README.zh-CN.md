@@ -10,7 +10,7 @@ Better Cleaner 只扫描你明确授权的文件夹，帮助你查看大文件�
 
 ## 下载
 
-<a href="https://apps.apple.com/app/id6805775995"><img src="assets/mas-badge-zh.svg" alt="前往 Mac App Store 下载" height="28"></a>
+<a href="https://apps.apple.com/us/app/better-cleaner/id6805775995?mt=12"><img src="assets/mas-badge-zh.svg" alt="前往 Mac App Store 下载" height="28"></a>
 
 <b>免费下载</b> · 无需账号即可扫描与查看  
 macOS 14 或更高版本  
@@ -67,7 +67,7 @@ Better Cleaner 默认不会扫描整个磁盘，不会自动删除或永久擦�
 
 ## 链接
 
-- [Mac App Store](https://apps.apple.com/app/id6805775995)
+- [Mac App Store](https://apps.apple.com/us/app/better-cleaner/id6805775995?mt=12)
 - [产品页](https://bettermac.net/products/better-cleaner/)
 - [支持中心](https://bettermac.net/support/better-cleaner/)
 - [隐私政策](https://bettermac.net/privacy/)
